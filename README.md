@@ -1,4 +1,3 @@
-
 # SNIDS: Smart Network Intrusion Detection System 🛡️🌐
 
 SNIDS is a comprehensive, desktop-based Network Intrusion Detection System built with Python. It features a modern dark-themed graphical user interface (GUI) to monitor network traffic in real-time, log persistent threat history using SQLite, and detect potential network attacks like Flooding and Port Scanning.
