@@ -62,10 +62,10 @@ To get a local copy up and running, execute these commands inside your terminal:
 
 ```bash
 # 1. Clone this repository
-git clone [https://github.com/saifaliobayes/SNIDS.git](https://github.com/saifaliobayes/SNIDS.git)
+git clone https://github.com/saifaliobayes/Network-Intrusion-Detection-System-SNIDS.git
 
 # 2. Navigate into the project folder
-cd SNIDS
+cd Network-Intrusion-Detection-System-SNIDS
 
 # 3. Install required network packets architecture
 pip install scapy
